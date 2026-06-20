@@ -98,15 +98,4 @@ Option 3 - Deploy for free:
 | 18%  | Electronics, AC restaurants, IT services          |
 | 28%  | Automobiles, luxury hotels, aerated drinks        |
 
-Rates as per Government of India GST Act, 2017.
-
 ---
-
-## License
-
-Free to use for personal and educational purposes.
-
----
-
-Made with love by Suryakala Yadav
-Email: yadavsuryakala517@gmail.com
